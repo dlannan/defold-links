@@ -44,10 +44,10 @@ Druid
 War Battles Pack
 - https://defold.com/assets/warbattlesassetpack/
 
-Magic Linker Asset Linrary
+Magic Linker Asset Library
 - https://defold.com/assets/magiclinker/
 
-Endless Runner Asset Linrary
+Endless Runner Asset Library
 - https://defold.com/assets/endlessrunner/
 
 Alien World Asset Library
