@@ -117,6 +117,9 @@ Jhonnyg
 JhonnyKing
 - https://github.com/jhonnyking/my-public-defold-examples   (same as above?)
 
+Lerg
+- https://github.com/Lerg/extension-imageloader
+
 Dlannan
 - https://github.com/dlannan/defold-blender-export
 - https://github.com/dlannan/defold-sqlite3
@@ -140,4 +143,11 @@ Deferred Rendering Examples
 
 Simple Shadow Mapping
 - https://forum.defold.com/t/simple-shadow-mapping-example/47628
+
+Blender Export tool for Defold
+- https://forum.defold.com/t/building-a-sync-tool-for-blender-to-defold/69920/165
+
+Guide to use VSCode with Defold
+- https://forum.defold.com/t/guide-how-to-turn-vscode-into-defold-ide-with-debugger/68002
+- https://github.com/astrochili/defold-vscode-guide
 
