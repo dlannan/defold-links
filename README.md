@@ -90,6 +90,7 @@ Britzl
 - https://github.com/britzl/publicexamples
 - https://github.com/britzl/throwacrow
 - https://github.com/britzl/playfabexamples
+- https://github.com/britzl/defold-screenshot#screenshotpixelsx-y-w-h-callback
 - https://github.com/britzl/deftest
 - https://github.com/britzl/lua-websocket_example
 - https://britzl.github.io/publicexamples/
