@@ -94,6 +94,11 @@ Britzl
 - https://github.com/britzl/lua-websocket_example
 - https://britzl.github.io/publicexamples/
 
+Dragosha
+- https://github.com/Dragosha/slasher-prototype
+- https://github.com/Dragosha/defold-light-and-shadows
+- https://github.com/Dragosha/defold-things
+
 Unindented
 - https://github.com/unindented/defold-astar
 
@@ -106,8 +111,33 @@ D954mas
 FlexYourBrain
 - https://github.com/FlexYourBrain/TimedPress
 
+Jhonnyg
+- https://github.com/Jhonnyg/my-public-defold-examples
+
+JhonnyKing
+- https://github.com/jhonnyking/my-public-defold-examples   (same as above?)
+
+Dlannan
+- https://github.com/dlannan/defold-blender-export
+- https://github.com/dlannan/defold-sqlite3
+- https://github.com/dlannan/defold-wfc
+- https://github.com/dlannan/defold-biosim4
+- https://github.com/dlannan/defold-warbattlesmp
+- https://github.com/dlannan/defold-samples
+- https://github.com/dlannan/defold-tools
+
 
 # Forum Links
 
 Particle Shader Exmaples
 - https://forum.defold.com/t/freely-available-particle-examples/65480/3
+
+Texture Scrolling - Shader Tutorial
+- https://forum.defold.com/t/texture-scrolling-shader-tutorial-example/71553
+
+Deferred Rendering Examples
+- https://forum.defold.com/t/deferred-rendering-example/71409
+
+Simple Shadow Mapping
+- https://forum.defold.com/t/simple-shadow-mapping-example/47628
+
